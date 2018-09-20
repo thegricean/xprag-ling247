@@ -17,9 +17,9 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 | ------------- | ------------- | ----- |
 | 9/25  | Course planning; overview | [Grice 1975](./readings/grice1975.pdf); [Goodman & Frank 2016](https://www.sciencedirect.com/science/article/pii/S136466131630122X)|
 | 10/02 | Scalar implicature       |  [Bott & Noveck 2004](https://www.sciencedirect.com/science/article/pii/S0749596X04000609); [Breheny et al 2006](https://www.sciencedirect.com/science/article/pii/S0010027705001253) |
-| 10/09 | Said vs implicated; variability across inferences     | [Doran et al 2012](https://www.jstor.org/stable/pdf/41348885.pdf), [van Tiel et al 2016](https://academic.oup.com/jos/article-abstract/33/1/137/2362956), [Degen 2015](./readings/degen2015.pdf)   |
-| 10/16 | Adjective processing / contrastive inferences    |  Sedivy 1999, Xiang, Grodner & Sedivy 2011   |
-| 10/23 | Perspective-taking | Keysar, Brown-Schmidt, Heller, Hawkins |
+| 10/09 | Said vs implicated; variability across inferences     | [Doran et al 2012](https://www.jstor.org/stable/pdf/41348885.pdf); [van Tiel et al 2016](https://academic.oup.com/jos/article-abstract/33/1/137/2362956); [Degen 2015](./readings/degen2015.pdf)   |
+| 10/16 | Adjective processing / contrastive inferences    |  [Sedivy et al 1999](./readings/sedivy1999.pdf); [Grodner & Sedivy 2011](./readings/grodner2011.pdf)   |
+| 10/23 | Perspective-taking | [Keysar et al 2000](./readings/keysar2000.pdf); [Heller et al 2008](./readings/heller2008.pdf); [Hawkins et al 2018](https://arxiv.org/abs/1807.09000) |
 | 10/30 |  Overinformativeness     | Pechmann, Sedivy, Pogue  |
 | 11/06 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
 | 11/13 |  Social meaning    |    |
