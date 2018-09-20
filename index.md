@@ -24,18 +24,18 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 | 11/06 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
 | 11/13 |  Social meaning    |  [Campbell-Kibler 2008](./readings/campbell2008.pdf); [Levon 2014](./readings/levon2014.pdf)  |
 | 11/20 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); Roettger & Franke (under revision)  |
-| 12/04 |      |    |
+| 12/04 |  Alternatives    |  Fox & Katzir; Gotzner  |
 
 
-IMPLICATURE 2
+<!-- IMPLICATURE 2
 huang & snedeker 2009
 grodner et al 2010
 degen & tanenhaus 2015
 
 breheny et al 2013
+ -->
 
-
-ALTERNATIVES
+<!-- ALTERNATIVES
 fox & katzier focus & implicature
-nicole gotzner benz solt
+nicole gotzner benz solt -->
 
