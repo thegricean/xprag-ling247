@@ -15,7 +15,7 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 
 | Date        | Topic           | Readings  |
 | ------------- | ------------- | ----- |
-| 9/25  | Course planning; overview | Grice 1975, XXX XPrag overview article or Goodman & Frank 2016|
+| 9/25  | Course planning; overview | <ul><li>Grice 1975</li><li>Goodman & Frank 2016</li></ul> |
 | 10/02 | Scalar implicature       |  Bott & Noveck 2004, Breheny et al 2006 |
 | 10/09 | Said vs implicated; variability across inferences     | Doran et al, van Tiel, Degen 2015   |
 | 10/16 | Adjective processing / contrastive inferences    |  Sedivy 1999, Xiang, Grodner & Sedivy 2011   |
