@@ -1,3 +1,14 @@
+## Course number
+
+LINGUIST 247 / PSYCH 227
+
+## Instructor
+
+Judith Degen
+Contact: jdegen@stanford.edu
+Office: 420-114
+Instead of office hours, please book a meeting at jdegen.youcanbook.me if you would like to meet.
+
 ## Course description
 
 This year's seminar "Advanced Topics in Psycholinguistics" will focus on **experimental pragmatics**. The field of experimental pragmatics combines an interest in the theoretical complexities of language use with the experimental methodologies of psycholinguistics. The course will present a broad survey of recent work in this area that has attempted to apply the methods of experimental psychology to classic issues in theoretical pragmatics. Each class session will include both theoretical and experimental readings on topics such as reference, implicature, and presupposition. The course will be organized primarily around discussion of the assigned readings. Students will develop a research proposal relevant to issues in language use. May be repeated for credit.
@@ -15,16 +26,16 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 
 | Date        | Topic           | Readings  |
 | ------------- | ------------- | ----- |
-| 9/25  | Course planning; overview | [Grice 1975](./readings/grice1975.pdf); [Goodman & Frank 2016](https://www.sciencedirect.com/science/article/pii/S136466131630122X)|
-| 10/02 | Scalar implicature       |  [Bott & Noveck 2004](https://www.sciencedirect.com/science/article/pii/S0749596X04000609); [Breheny et al 2006](https://www.sciencedirect.com/science/article/pii/S0010027705001253) |
-| 10/09 | Said vs implicated; variability across inferences     | [Doran et al 2012](https://www.jstor.org/stable/pdf/41348885.pdf); [van Tiel et al 2016](https://academic.oup.com/jos/article-abstract/33/1/137/2362956); [Degen 2015](./readings/degen2015.pdf)   |
-| 10/16 | Adjective processing / contrastive inferences    |  [Sedivy et al 1999](./readings/sedivy1999.pdf); [Grodner & Sedivy 2011](./readings/grodner2011.pdf)   |
-| 10/23 | Perspective-taking | [Keysar et al 2000](./readings/keysar2000.pdf); [Heller et al 2008](./readings/heller2008.pdf); [Hawkins et al 2018](https://arxiv.org/abs/1807.09000) |
-| 10/30 |  Overinformativeness     | Pechmann, Sedivy, Pogue, Degen?  |
-| 11/06 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
-| 11/13 |  Social meaning    |  [Campbell-Kibler 2008](./readings/campbell2008.pdf); [Levon 2014](./readings/levon2014.pdf)  |
-| 11/20 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); Roettger & Franke (under revision)  |
-| 12/04 |  Alternatives    |  Fox & Katzir; Gotzner  |
+| Sep 25  | Course planning; overview | [Grice 1975](./readings/grice1975.pdf); [Goodman & Frank 2016](https://www.sciencedirect.com/science/article/pii/S136466131630122X)|
+| Oct 02 | Scalar implicature       |  [Bott & Noveck 2004](https://www.sciencedirect.com/science/article/pii/S0749596X04000609); [Breheny et al 2006](https://www.sciencedirect.com/science/article/pii/S0010027705001253) |
+| Oct 09 | Said vs implicated; variability across inferences     | [Doran et al 2012](https://www.jstor.org/stable/pdf/41348885.pdf); [van Tiel et al 2016](https://academic.oup.com/jos/article-abstract/33/1/137/2362956); [Degen 2015](./readings/degen2015.pdf)   |
+| Oct 16 | Adjective processing / contrastive inferences    |  [Sedivy et al 1999](./readings/sedivy1999.pdf); [Grodner & Sedivy 2011](./readings/grodner2011.pdf)   |
+| Oct 23 | Perspective-taking | [Keysar et al 2000](./readings/keysar2000.pdf); [Heller et al 2008](./readings/heller2008.pdf); [Hawkins et al 2018](https://arxiv.org/abs/1807.09000) |
+| Oct 30 |  Overinformativeness     | Pechmann, Sedivy, Pogue, Degen?  |
+| Nov 06 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
+| Nov 13 |  Social meaning    |  [Campbell-Kibler 2008](./readings/campbell2008.pdf); [Levon 2014](./readings/levon2014.pdf)  |
+| Nov 20 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); Roettger & Franke (under revision)  |
+| Dec 04 |  Alternatives    |  Fox & Katzir; Gotzner  |
 
 
 <!-- IMPLICATURE 2
