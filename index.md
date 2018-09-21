@@ -4,11 +4,10 @@ LINGUIST 247 / PSYCH 227
 
 ## Instructor
 
-Judith Degen
-
-Contact: jdegen@stanford.edu
-
-Office: 420-114
+| ------------- | ------------- | ----- |
+| Name:        | Judith Degen           | 
+| Contact: | jdegen@stanford.edu  | 
+| Office: | 420-114 |
 
 Instead of office hours, please book a meeting at jdegen.youcanbook.me if you would like to meet.
 
