@@ -4,7 +4,7 @@ LINGUIST 247 / PSYCH 227
 
 ## Instructor
 
-| ------------- | ------------- | ----- |
+
 | Name:        | Judith Degen           | 
 | Contact: | jdegen@stanford.edu  | 
 | Office: | 420-114 |
@@ -37,7 +37,7 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 | Nov 06 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
 | Nov 13 |  Social meaning    |  [Campbell-Kibler 2008](./readings/campbell2008.pdf); [Levon 2014](./readings/levon2014.pdf)  |
 | Nov 20 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); Roettger & Franke (under revision)  |
-| Dec 04 |  Alternatives    |  Fox & Katzir; Gotzner  |
+| Dec 04 |  Alternatives    |  Fox & Katzir; Gotzner; [Loftus & Palmer 1974](./readings/loftus1974.pdf)  |
 
 
 <!-- IMPLICATURE 2
