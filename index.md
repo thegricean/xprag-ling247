@@ -35,7 +35,7 @@ The course will meet Tuesdays from 3-5:50pm in Room 240-201.
 | Oct 23 | Adjective processing / contrastive inferences    |  [Sedivy et al 1999](./readings/sedivy1999.pdf); [Grodner & Sedivy 2011](./readings/grodner2011.pdf)   |
 | Oct 30 | Perspective-taking | [Keysar et al 2000](./readings/keysar2000.pdf); [Heller et al 2008](./readings/heller2008.pdf); [Hawkins et al 2018](https://arxiv.org/abs/1807.09000) |
 | Nov 06 |  Overinformativeness     | [Sedivy 2003](https://link.springer.com/article/10.1023/A:1021928914454);  [Engelhardt et al 2006](https://www.sciencedirect.com/science/article/pii/S0749596X05001518); [Gatt et al 2013](https://pre2013.uvt.nl/pdf/gatt-vangompel-vandeemter-krahmer.pdf); [Rubio-Fernandez et al under review](https://osf.io/gf8qx/download/?format=pdf)  |
-| Nov 13 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); Roettger & Franke (under revision)  |
+| Nov 13 |  Prosody      | [Ito & Speer 2008](./readings/ito2008.pdf); [Kurumada et al 2014](./readings/kurumada2014.pdf); [Roettger & Franke under review](https://psyarxiv.com/awp87)  |
 | Nov 20 |  Social meaning    |  [Campbell-Kibler 2008](./readings/campbell2008.pdf); [Levon 2014](./readings/levon2014.pdf)  |
 | Dec 4 |  Presupposition    | Tonhauser et al 2013, 2018, Kim et al   |
 
